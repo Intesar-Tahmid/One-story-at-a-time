@@ -148,9 +148,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f05f4ff0e188bfc8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "23088b16ce201787",
@@ -175,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,7 +198,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "032c06e5e9a827a2",
+  "active": "121a79d66a94dd1b",
   "lastOpenFiles": [
     "OneNote/Interview Preparation/CP book/Maps.md",
     "OneNote/Interview Preparation/Codeforces/Untitled-20250922232047.md",

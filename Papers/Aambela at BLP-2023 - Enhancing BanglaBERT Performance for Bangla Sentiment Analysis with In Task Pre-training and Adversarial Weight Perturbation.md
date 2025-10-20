@@ -10,3 +10,6 @@
 - How NLP helps in hate speech classification
 - ulala 
 - ulala
+- kacha khaia halamu koitasi
+- ekkare kacha khaia dimu tore
+- Remember to make a backup of your vault
