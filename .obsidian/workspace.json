@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "be97e0576be512ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "402ed9cdc89fcfaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121a79d66a94dd1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5eddef625ce3957",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41d961d4c1a3b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "032c06e5e9a827a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b98de3fc8cbcbe79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e4eb760e4c55cd2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "81e7e6d84ddd9a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "03aa89cb74ad822d",
+        "type": "tabs",
+        "dimension": 62.98701298701299,
+        "children": [
+          {
+            "id": "d4675c1be2244a1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f4d22e9b36950f35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "45877a78ec686ff6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efe93ba3c6f37e95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "23088b16ce201787",
+        "type": "tabs",
+        "dimension": 37.01298701298701,
+        "children": [
+          {
+            "id": "4ca8523ed78a55ef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "032c06e5e9a827a2",
+  "lastOpenFiles": [
+    "OneNote/Interview Preparation/CP book/Maps.md",
+    "OneNote/Interview Preparation/Codeforces/Untitled-20250922232047.md",
+    "Papers/How Good LLMs Are at Answering Bangla Medical Visual Questions?.md",
+    "OneNote/Interview Preparation/CP book/Set.md",
+    "OneNote/Interview Preparation/CP book",
+    "OneNote/Interview Preparation/Codeforces",
+    "OneNote/Interview Preparation",
+    "OneNote",
+    "Untitled Kanban.md",
+    "Papers/Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation.md",
+    "obsidian-content/README.md",
+    "obsidian-content",
+    "System Design/ML System Design/Designing Machine Learning Systems/Data Engineering Fundamentals.md",
+    "Papers/In-Context Fine-Tuning for Time-Series Foundation Models.md",
+    "System Design/ML System Design/Designing Machine Learning Systems",
+    "Daily ToDos/21 September, 2025.md",
+    "Daily ToDos",
+    "().md",
+    "Machine Learning/RAG & VectorDB/General Learning.md",
+    "“breed”, “height_cm”.md",
+    "Machine Learning/Pandas.md",
+    "Machine Learning/RAG & VectorDB",
+    "Debugging Diary",
+    "System Design/Web System Design",
+    "Welcome.md",
+    "NextJS Medical Symptom App.md",
+    "2025-09-08.md"
+  ]
+}

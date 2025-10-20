@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#1592bc",
+    "recentlyUsedIcons": [
+      "LiListTodo",
+      "BoBxServer",
+      "LiBrain",
+      "LiNewspaper",
+      "🤖"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "AI-Agent": {
+    "iconName": "LiAtom",
+    "iconColor": "#a625d4"
+  },
+  "Book Snippets": {
+    "iconName": "LiBook",
+    "iconColor": "#dea0a0"
+  },
+  "Competitions": "🏋",
+  "Debugging Diary": "❌",
+  "Machine Learning": "🤖",
+  "Papers": {
+    "iconName": "LiNewspaper",
+    "iconColor": "#eeeded"
+  },
+  "Problem Solving": {
+    "iconName": "LiBrain",
+    "iconColor": "#941e1e"
+  },
+  "System Design": {
+    "iconName": "BoBxServer",
+    "iconColor": "#0e6cb4"
+  },
+  "Daily ToDos": {
+    "iconName": "LiListTodo",
+    "iconColor": "#e00b0b"
+  }
+}
