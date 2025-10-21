@@ -11,20 +11,14 @@
             "id": "121a79d66a94dd1b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Daily ToDos/21 September, 2025.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Papers/Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "21 September, 2025"
+              "icon": "lucide-file",
+              "title": "Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation"
             }
           }
         ]
@@ -206,6 +200,7 @@
   },
   "active": "121a79d66a94dd1b",
   "lastOpenFiles": [
+    "Daily ToDos/21 September, 2025.md",
     "Papers/Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation.md",
     "OneNote/Interview Preparation/CP book/Maps.md",
     "OneNote/Interview Preparation/Codeforces/Untitled-20250922232047.md",
@@ -221,7 +216,6 @@
     "System Design/ML System Design/Designing Machine Learning Systems/Data Engineering Fundamentals.md",
     "Papers/In-Context Fine-Tuning for Time-Series Foundation Models.md",
     "System Design/ML System Design/Designing Machine Learning Systems",
-    "Daily ToDos/21 September, 2025.md",
     "Daily ToDos",
     "().md",
     "Machine Learning/RAG & VectorDB/General Learning.md",

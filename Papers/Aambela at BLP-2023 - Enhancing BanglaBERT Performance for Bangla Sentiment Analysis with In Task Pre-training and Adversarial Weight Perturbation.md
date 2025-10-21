@@ -13,3 +13,6 @@
 - kacha khaia halamu koitasi
 - ekkare kacha khaia dimu tore
 - Remember to make a backup of your vault
+- tor choddo gushti kala
+- kailla r cheyeo kala
+- 
