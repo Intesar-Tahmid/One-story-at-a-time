@@ -11,20 +11,14 @@
             "id": "121a79d66a94dd1b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Daily ToDos/22 October, 2025.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Papers/How Good LLMs Are at Answering Bangla Medical Visual Questions?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "22 October, 2025"
+              "icon": "lucide-file",
+              "title": "How Good LLMs Are at Answering Bangla Medical Visual Questions?"
             }
           }
         ]
@@ -187,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +200,10 @@
   },
   "active": "121a79d66a94dd1b",
   "lastOpenFiles": [
-    "Daily ToDos/21 September, 2025.md",
-    "Daily ToDos/22 October, 2025.md",
-    "Daily ToDos/22 October, 2025.md",
-    "System Design/Web System Design/Redis/Introduction to Redis.md",
     "Papers/Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation.md",
+    "Daily ToDos/22 October, 2025.md",
+    "Daily ToDos/21 September, 2025.md",
+    "System Design/Web System Design/Redis/Introduction to Redis.md",
     "System Design/Web System Design/Redis",
     "OneNote/Interview Preparation/CP book/Maps.md",
     "OneNote/Interview Preparation/Codeforces/Untitled-20250922232047.md",
