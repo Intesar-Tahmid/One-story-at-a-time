@@ -8,7 +8,7 @@
 ### Introduction
 - Why hate speech classification is crucial
 - How NLP helps in hate speech classification
-- ulala 
+- ulala
 - ulala
 - kacha khaia halamu koitasi
 - ekkare kacha khaia dimu tore
@@ -23,3 +23,10 @@
 - tui kala kala kala
 - kkkkkkkkkkkkkkkkkkkkkkkk
 - kkkkkkkkkkkkkkkkkkkk
+- kkkkk
+- kkkkkdfd
+- sdfsdf
+- sdfsfs
+- sdfsdf
+- gsfgd
+- dfgdfgd
