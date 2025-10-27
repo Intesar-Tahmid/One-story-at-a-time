@@ -19,3 +19,5 @@
 - kailla re
 - tor moton kala ami jiboneo dekhi nai
 - tui kala tor bap eo kala
+- kala tui eto kotha kos keno
+- tui kala kala kala
