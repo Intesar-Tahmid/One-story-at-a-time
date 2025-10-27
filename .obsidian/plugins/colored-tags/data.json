@@ -20,7 +20,8 @@
     "condition": 8,
     "This": 9,
     "RAG": 10,
-    "VQA": 11
+    "VQA": 11,
+    "but": 12
   },
   "_version": 3
 }
