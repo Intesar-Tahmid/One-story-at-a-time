@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/How Good LLMs Are at Answering Bangla Medical Visual Questions?.md",
+                "file": "Papers/Evaluating LLMs Across Multi-Cognitive Levels From Medical Knowledge Mastery to Scenario Based Problem Solving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Good LLMs Are at Answering Bangla Medical Visual Questions?"
+              "title": "Evaluating LLMs Across Multi-Cognitive Levels From Medical Knowledge Mastery to Scenario Based Problem Solving"
             }
           }
         ]
@@ -200,6 +200,8 @@
   },
   "active": "121a79d66a94dd1b",
   "lastOpenFiles": [
+    "Papers/How Good LLMs Are at Answering Bangla Medical Visual Questions?.md",
+    "Papers/Evaluating LLMs Across Multi-Cognitive Levels From Medical Knowledge Mastery to Scenario Based Problem Solving.md",
     "Papers/Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation.md",
     "Daily ToDos/22 October, 2025.md",
     "Daily ToDos/21 September, 2025.md",
@@ -207,7 +209,6 @@
     "System Design/Web System Design/Redis",
     "OneNote/Interview Preparation/CP book/Maps.md",
     "OneNote/Interview Preparation/Codeforces/Untitled-20250922232047.md",
-    "Papers/How Good LLMs Are at Answering Bangla Medical Visual Questions?.md",
     "OneNote/Interview Preparation/CP book/Set.md",
     "OneNote/Interview Preparation/CP book",
     "OneNote/Interview Preparation/Codeforces",
