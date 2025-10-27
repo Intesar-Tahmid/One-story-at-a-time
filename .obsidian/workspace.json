@@ -185,7 +185,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,7 +194,8 @@
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "121a79d66a94dd1b",
