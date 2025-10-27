@@ -17,3 +17,5 @@
 - kailla r cheyeo kala
 - tor choddo gushti kailla
 - kailla re
+- tor moton kala ami jiboneo dekhi nai
+- tui kala tor bap eo kala
