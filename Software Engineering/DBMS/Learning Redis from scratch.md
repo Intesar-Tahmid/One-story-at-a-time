@@ -31,3 +31,27 @@ def __init__(self, host: str = 'localhost', port: int = 6379,
         raise ValueError("Invalid port number")
         
 ```
+### Connection Pooling
+A technique where instead of creating a new database connection for every operation, you maintain a pool of pre-established connections that can be reused.
+#### Without connection pooling
+```
+# BAD: New connection for each operation
+def save_deal(deal_data):
+    redis = redis.Redis(host='localhost', port=6379)  # NEW CONNECTION
+    redis.hset(f"deal:{deal_data['id']}", mapping=deal_data)
+    redis.close()  # CLOSE CONNECTION
+
+# For 1600 deals: 1600 connections created/destroyed
+```
+#### With connection pooling
+```
+# GOOD: Reuse connections from pool
+pool = redis.ConnectionPool(max_connections=10)
+redis_client = redis.Redis(connection_pool=pool)
+
+def save_deal(deal_data):
+    # Reuses existing connection from pool
+    redis_client.hset(f"deal:{deal_data['id']}", mapping=deal_data)
+
+# For 1600 deals: Only 10 connections max, reused efficiently
+```
