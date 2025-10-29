@@ -67,14 +67,14 @@
             "id": "7c72b476e560d292",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Papers/Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Aambela at BLP-2023 - Enhancing BanglaBERT Performance for Bangla Sentiment Analysis with In Task Pre-training and Adversarial Weight Perturbation"
             }
           }
         ],
