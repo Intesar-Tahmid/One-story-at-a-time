@@ -57,4 +57,11 @@ def save_deal(deal_data):
 ```
 - Without pooling it will take 1-5 ms to establish each new TCP connection
 - With pooling 0.1ms to get connection from pool
-- 
+### Redis commands
+**sadd** : Set Add = It creates sets of deal IDs for each category and complexity is O(1) per operation
+```
+# Add deal to operator index
+pipe.sadd(Keys.operator(operator), deal_id)
+# Redis command: SADD idx:operator:EGYEM "EGYEM:IRQAT:2019-05-01"
+```
+**zadd** Maintain deals
