@@ -64,4 +64,4 @@ def save_deal(deal_data):
 pipe.sadd(Keys.operator(operator), deal_id)
 # Redis command: SADD idx:operator:EGYEM "EGYEM:IRQAT:2019-05-01"
 ```
-**zadd** Maintain deals
+**zadd** Maintain deals forted by date for range queries, complexity is O(log N) per operation
