@@ -55,3 +55,5 @@ def save_deal(deal_data):
 
 # For 1600 deals: Only 10 connections max, reused efficiently
 ```
+- Without pooling it will take 1-5 ms to establish each new TCP connection
+- With pooling 0.1ms 
